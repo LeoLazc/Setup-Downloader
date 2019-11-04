@@ -1,4 +1,4 @@
-# Descargador de setups
+# Setup downloader
  
 -proyecto pensado para descargar setups para coches simracing de Iracing desde pureracingschool.com
 
