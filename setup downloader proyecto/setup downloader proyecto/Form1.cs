@@ -13,9 +13,9 @@ using HtmlDocument = HtmlAgilityPack.HtmlDocument;
 
 namespace setup_downloader_proyecto
 {
-    public partial class Form1 : Form
+    public partial class frmSetup : Form
     {
-        public Form1()
+        public frmSetup()
         {
             InitializeComponent();
         }
@@ -31,19 +31,7 @@ namespace setup_downloader_proyecto
             cbCategoria.Items.Clear();
             if (cbCuenta.SelectedIndex.Equals(0))//obtener categorias
             {
-                List<string> pureCategorias = new List<string>();
-                HtmlWeb pureWeb = new HtmlWeb();
-                HtmlDocument doc = pureWeb.Load("https://puredrivingschool.com/membersite/");
-
-                foreach (var Nodo in doc.DocumentNode.CssSelect(".av-inner-tab-title"))
-                {
-                    var NodoSpanCategoria = Nodo.CssSelect("span");
-                    pureCategorias.Add(Nodo.InnerHtml);
-                }
-                for (int i = 1; i < pureCategorias.Count; i++)
-                {
-                    cbCategoria.Items.Add(pureCategorias[i]);
-                }
+                obtenerTitulos("https://puredrivingschool.com/membersite/", ".av-inner-tab-title", "span", cbCategoria, 1);
             }
         }
 
@@ -63,7 +51,7 @@ namespace setup_downloader_proyecto
             {
                 if(MessageBox.Show("Está seguro que quiere descargar los archivos seleccionados?","Descargar",MessageBoxButtons.YesNo,MessageBoxIcon.Question,MessageBoxDefaultButton.Button1)==DialogResult.Yes)
                 {
-                    //ODIGO DE DESCARGA
+                    //CODIGO DE DESCARGA
                 }
             }
         }
@@ -168,6 +156,23 @@ namespace setup_downloader_proyecto
                 e.Cancel = false;
             else
                 e.Cancel = true;
+        }
+
+        public void obtenerTitulos(string url, string clase, string html, ComboBox combo, int posicion)
+        {
+            List<string> titulos = new List<string>();
+            HtmlWeb web = new HtmlWeb();
+            HtmlDocument doc = web.Load(url);
+
+            foreach (var Nodo in doc.DocumentNode.CssSelect(clase))
+            {
+                var NodoSpanCategoria = Nodo.CssSelect(html);
+                titulos.Add(Nodo.InnerHtml);
+            }
+            for (int i = posicion; i < titulos.Count; i++)
+            {
+                combo.Items.Add(titulos[i]);
+            }
         }
     }
 }

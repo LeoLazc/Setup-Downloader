@@ -1,6 +1,6 @@
 ﻿namespace setup_downloader_proyecto
 {
-    partial class Form1
+    partial class frmSetup
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -348,7 +348,7 @@
             this.cbTelemetriaCoche.Text = "Telemetría";
             this.cbTelemetriaCoche.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // frmSetup
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -359,7 +359,7 @@
             this.Controls.Add(this.gbCuenta);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Form1";
+            this.Name = "frmSetup";
             this.Text = "Setup dowloader";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);

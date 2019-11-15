@@ -385,3 +385,133 @@ C:\Users\Leo\source\repos\NewRepo\setup downloader proyecto\setup downloader pro
 C:\Users\Leo\source\repos\NewRepo\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.csproj.CopyComplete
 C:\Users\Leo\source\repos\NewRepo\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.exe
 C:\Users\Leo\source\repos\NewRepo\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.pdb
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\setup downloader proyecto.exe.config
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\setup downloader proyecto.exe
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\setup downloader proyecto.pdb
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\netstandard.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.AppContext.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Collections.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.ComponentModel.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Console.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Data.Common.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Globalization.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.Compression.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.Pipes.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Linq.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.Http.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.Ping.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.Requests.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.Security.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.Sockets.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.ObjectModel.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Reflection.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Resources.Reader.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Resources.Writer.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.Claims.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.Principal.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Security.SecureString.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Text.Encoding.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Threading.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Threading.Thread.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Threading.Timer.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.ValueTuple.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Xml.XPath.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\FSharp.Core.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\ScrapySharp.Core.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\ScrapySharp.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\FSharp.Core.xml
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.exe.config
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup_downloader_proyecto.Properties.Resources.resources
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.csproj.CopyComplete
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.exe
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup downloader proyecto.pdb
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup_downloader_proyecto.frmSetup.resources
+C:\Users\Leo\source\repos\setup downloader\setup downloader proyecto\setup downloader proyecto\obj\Debug\setup_downloader_proyecto.frmSemana.resources
